@@ -6,11 +6,11 @@
 export const environment = {
   production: true,
   firebase: {
-    apiKey: 'AIzaSyCsvcVOzl62M_Ys_JKTCRp-gUle6VqTfls',
-    authDomain: 'futureworktechnologies-fae7c.firebaseapp.com',
-    databaseURL: 'https://futureworktechnologies-fae7c.firebaseio.com',
-    projectId: 'futureworktechnologies-fae7c',
-    storageBucket: 'futureworktechnologies-fae7c.appspot.com',
-    messagingSenderId: '1030144738119'
+  apiKey: 'AIzaSyCsvcVOzl62M_Ysed_JKTCRp-gUle6VqTfls',
+    authDomain: 'asdf.firebaseapp.com',
+    databaseURL: 'https://asdf.firebaseio.com',
+    projectId: 'asdf',
+    storageBucket: 'asdf.appspot.com',
+    messagingSenderId: '1030144732228119'
   }
 };
