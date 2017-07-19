@@ -1,0 +1,23 @@
+<br/><br/><br/><br/><br/>
+<div id="contact">
+    <div class="section-content">
+        <h3>Add Category</h3>
+    </div>
+    <div class="contact-section">
+        <div class="container">
+            <form (submit)="createNewcategory()">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="title">Category Name</label>
+                        <input type="text" class="form-control" id="name" [(ngModel)]="newCatdata.name" name="name" placeholder="Enter cat name">
+                    </div>                          
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-default submit">Add Category</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
